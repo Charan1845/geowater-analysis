@@ -1,0 +1,26 @@
+# Excel lock files
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Generated analysis outputs (recreated by the notebooks)
+Output/
+*_backup.xlsx
+
+# Large source data (see README for how to obtain)
+Dataset/
+*complete.xlsx
+
+# Large boundary files not used by the app
+AndhraPradesh_Districts.geojson
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
